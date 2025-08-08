@@ -187,30 +187,5 @@ Contributions are welcome! Here's how you can help:
 - Add comprehensive unit tests
 - Improve documentation and examples
 
-## 📄 License
-
-This project is available under the MIT License. See the LICENSE file for more details.
-
-## 👤 Author
-
-**Pawan Chinnu**
-- GitHub: [@pawanchinnu17](https://github.com/pawanchinnu17)
-
-## 🙏 Acknowledgments
-
-- Financial dataset providers for making data available for research
-- NLTK and scikit-learn communities for excellent NLP and ML tools
-- TensorFlow team for powerful deep learning capabilities
-- Open source community for inspiration and resources
-
-## 📞 Support
-
-If you have any questions or need help with the project:
-
-1. **Issues**: Open an issue on GitHub for bugs or feature requests
-2. **Discussions**: Use GitHub Discussions for general questions
-3. **Documentation**: Check this README and inline code comments
-
----
 
 ⭐ **Star this repository if you found it helpful!** ⭐
